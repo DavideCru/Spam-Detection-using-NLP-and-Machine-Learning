@@ -24,13 +24,14 @@ The model achieves strong performance while maintaining interpretability. <br>
 Results highlight the importance of evaluating classification models beyond accuracy, especially in imbalanced datasets. <br>
 This project demonstrates NLP feature engineering, supervised learning, model evaluation, and statistical reasoning in applied text classification. <br>
 
-<img width="562" height="453" alt="matrice confuzione" src="https://github.com/user-attachments/assets/a976b45a-f8d7-43c7-95b3-1f19928e93f1" />
 <p align="center">
-  <img width="857" height="545" alt="parole influenti" src="https://github.com/user-attachments/assets/e0d9207f-6361-4956-9ab1-c4cf8e4ec35f" />
-  <img width="580" height="448" alt="distribuzione classi" src="https://github.com/user-attachments/assets/1ad90ac5-57eb-4e6f-9bf7-93dbcda3adaf" />
+  <img width="45%"  alt="matrice confuzione" src="https://github.com/user-attachments/assets/a976b45a-f8d7-43c7-95b3-1f19928e93f1" />
+  <img width="45%"  alt="distribuzione classi" src="https://github.com/user-attachments/assets/1ad90ac5-57eb-4e6f-9bf7-93dbcda3adaf" />
 </p>
+  <img width="857" height="545" alt="parole influenti" src="https://github.com/user-attachments/assets/e0d9207f-6361-4956-9ab1-c4cf8e4ec35f" />
 
 
 
 
-
+ width="562" height="453"
+ width="580" height="448"
