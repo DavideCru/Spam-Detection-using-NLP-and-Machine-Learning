@@ -25,6 +25,6 @@ Results highlight the importance of evaluating classification models beyond accu
 This project demonstrates NLP feature engineering, supervised learning, model evaluation, and statistical reasoning in applied text classification. <br>
 
 <p align="center">
-  <img src="C:\Users\Dav\Desktop\DAVIDE\ISTRUZIONE\MASTER\UCD - Statistical DS\PROGETTO ML" width="45%" />
+  <img src="C:/Users/Dav/Desktop/DAVIDE/ISTRUZIONE/MASTER/UCD - Statistical DS/PROGETTO ML/matrice confuzione.png" width="45%" />
   <img src="C:\Users\Dav\Desktop\DAVIDE\ISTRUZIONE\MASTER\UCD - Statistical DS\PROGETTO ML" width="45%" />
 </p>
