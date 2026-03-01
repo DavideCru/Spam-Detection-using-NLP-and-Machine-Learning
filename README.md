@@ -1,7 +1,7 @@
 # Spam-Detection-using-NLP-and-Machine-Learning
 
 Project Type: Machine Learning & Text Classification Project <br>
-Tools Used: Python, pandas, scikit-learn, TF-IDF, Logistic Regression, Matplotlib <br><br>
+Tools Used: Python, pandas, scikit-learn, TF-IDF, Logistic Regression, Matplotlib <br>
 
 This project develops a supervised machine learning model to classify SMS/email messages as Spam (0) or Ham (1) using Natural Language Processing techniques. <br>
 The objective was to build an interpretable and statistically sound classifier capable of detecting spam while minimizing false positives. <br><br>
