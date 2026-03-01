@@ -26,7 +26,7 @@ This project demonstrates NLP feature engineering, supervised learning, model ev
 
 <p align="center">
   <img width="45%"  alt="matrice confuzione" src="https://github.com/user-attachments/assets/a976b45a-f8d7-43c7-95b3-1f19928e93f1" />
-  <img width="46%"  alt="distribuzione classi" src="https://github.com/user-attachments/assets/1ad90ac5-57eb-4e6f-9bf7-93dbcda3adaf" />
+  <img width="47%"  alt="distribuzione classi" src="https://github.com/user-attachments/assets/1ad90ac5-57eb-4e6f-9bf7-93dbcda3adaf" />
    <img width="70%"  alt="parole influenti" src="https://github.com/user-attachments/assets/e0d9207f-6361-4956-9ab1-c4cf8e4ec35f" />
 </p>
  
